@@ -1,3 +1,5 @@
-# Event Manager Pro
+# Event Manager Pro a déménagé
 
-Application en ligne : https://cnanmenibondja-spec.github.io/event-manager-pro/
+Nouvelle adresse : https://mroyal-apps.github.io/event-manager-pro/
+
+Les anciens liens (inscriptions, invitations, QR codes) sont redirigés automatiquement.
